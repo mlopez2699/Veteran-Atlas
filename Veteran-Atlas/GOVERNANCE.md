@@ -1,3 +1,0 @@
-# Governance
-
-Project governance placeholder.
